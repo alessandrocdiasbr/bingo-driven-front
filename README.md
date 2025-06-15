@@ -16,10 +16,10 @@ A API do back-end consumida por este projeto está disponível em:
 
 ## ⚙️ Tecnologias
 
-- [cite_start]**Core:** React e Vite. 
+- **Core:** React e Vite. 
 - **Estilização:** CSS puro.
-- [cite_start]**Roteamento:** React Router DOM. 
-- [cite_start]**Requisições HTTP:** Axios. 
+- **Roteamento:** React Router DOM. 
+- **Requisições HTTP:** Axios. 
 - **DevOps:** Docker, Docker Compose, GitHub Actions, Vercel.
 
 ---
@@ -51,6 +51,6 @@ Se desejar subir apenas o contêiner do front-end:
 
 ## 🛠️ Desenvolvimento (Sem Docker)
 
-- [cite_start]Instalar as dependências com o `npm i`; 
-- [cite_start]Criar o arquivo `.env` com base no exemplo do `.env.example`, apontando para a API do back-end;
+- Instalar as dependências com o `npm i`; 
+- Criar o arquivo `.env` com base no exemplo do `.env.example`, apontando para a API do back-end;
 - Executar o comando `npm run dev`.
