@@ -6,7 +6,11 @@ Este é o projeto front-end para o sistema de Bingo Driven, desenvolvido com Rea
 
 A aplicação está no ar e pode ser acessada através do link:
 
+<<<<<<< HEAD
 - **Aplicação:** `https://bingo-driven-front.vercel.app`
+=======
+- **Aplicação:** `https://bingo-driven-front.vercel.app/`
+>>>>>>> ec8a02b8872b73b7352bf5d09a1640367208f76a
 
 A API do back-end consumida por este projeto está disponível em:
 
@@ -16,10 +20,17 @@ A API do back-end consumida por este projeto está disponível em:
 
 ## ⚙️ Tecnologias
 
-- [cite_start]**Core:** React e Vite. 
+<<<<<<< HEAD
+- **Core:** React e Vite. 
 - **Estilização:** CSS puro.
-- [cite_start]**Roteamento:** React Router DOM. 
-- [cite_start]**Requisições HTTP:** Axios. 
+- **Roteamento:** React Router DOM. 
+- **Requisições HTTP:** Axios. 
+=======
+- **Core:** React e Vite. 
+- **Estilização:** CSS puro.
+- **Roteamento:** React Router DOM. 
+- **Requisições HTTP:** Axios. 
+>>>>>>> ec8a02b8872b73b7352bf5d09a1640367208f76a
 - **DevOps:** Docker, Docker Compose, GitHub Actions, Vercel.
 
 ---
@@ -51,6 +62,12 @@ Se desejar subir apenas o contêiner do front-end:
 
 ## 🛠️ Desenvolvimento (Sem Docker)
 
-- [cite_start]Instalar as dependências com o `npm i`; 
-- [cite_start]Criar o arquivo `.env` com base no exemplo do `.env.example`, apontando para a API do back-end;
+<<<<<<< HEAD
+- Instalar as dependências com o `npm i`; 
+- Criar o arquivo `.env` com base no exemplo do `.env.example`, apontando para a API do back-end;
 - Executar o comando `npm run dev`.
+=======
+- Instalar as dependências com o `npm i`; 
+- Criar o arquivo `.env` com base no exemplo do `.env.example`, apontando para a API do back-end;
+- Executar o comando `npm run dev`.
+>>>>>>> ec8a02b8872b73b7352bf5d09a1640367208f76a
